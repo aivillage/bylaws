@@ -58,16 +58,20 @@
 ## ARTICLE V
 ### Committee Membership
 
-**Section 5.01 Election.** Initial Committee Members will be chosen on a volunteer basis from the Logistics Participant group. Any Logistics member may be elected to a new committee by a simple majority vote of current committee members. A person outside of the Logistics may be elected to a AI Village committee after review and majority vote by the respective organizational committee (see Section 4.01, Article IV).
+**Section 5.01 Formation.** A committee needs at least 2 members. A Committee shall have a designated chair and second, or a pair of co-chairs. More than two co-chairs requires approval from the Steering Committee. 
 
-**Section 5.02 Duties.** Committee Members shall be expected to attend and participate in committee meetings and contribute to committee activities as time allows. Committee Members are invited to attend the annual in-person AI Village meeting. 
+**Section 5.02 Election.** Initial Committee Members will be chosen on a volunteer basis from the Logistics Participant group. Any Logistics member may be elected to a new committee by a simple majority vote of current committee members. A person outside of the Logistics may be elected to a AI Village committee after review and majority vote by the respective organizational committee (see Section 4.01, Article IV).
 
-**Section 5.03 Removal.** Any Committee Member may be removed from their committee at any time, with cause, by a vote of a majority of Committee Members within said committee at any meeting.
+**Section 5.03 Duties.** Committee Members shall be expected to attend and participate in committee meetings and contribute to committee activities as time allows. Committee Members are invited to attend the annual in-person AI Village meeting. 
 
-**Section 5.04 Resignation.** Any Committee Member may resign from their committee at any time, such resignation to be made in writing and delivered to the Committee Chair.
+**Section 5.04 Removal.** Any Committee Member may be removed from their committee at any time, with cause, by a vote of a majority of Committee Members within said committee at any meeting. In the case of a tie vote the matter shall be turned over to the Steering Committee.
+
+**Section 5.05 Resignation.** Any Committee Member may resign from their committee at any time, such resignation to be made in writing and delivered to the Committee Chair.
 
 ## Article VI
 ### Non-Committee Roles
+
+**Section 6.02 Powers and Duties of the Producer.** 
 
 **Section 6.01 Powers and Duties of the Coordinator.** The Coordinator is responsible for the scheduling and notification of Steering Committee meetings, communication between the Steering Committee and the AI Village community, and organizing the logistics of AI Village activities. Committee Chairs (see Article III) report to the Coordinator when planning activities for the fiscal year. If a budget is required for an activity the Coordinator must inform the Steering Committee to get approval for budget allocation. Any committee member (see Article V) can report to the Coordinator if an activity is deemed out of scope for the AIV or if there is a violation of the bylaws. The Coordinator shall report directly to the Steering Committee.
 
