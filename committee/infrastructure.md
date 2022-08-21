@@ -1,6 +1,6 @@
-# Access
+# Infrastructure
 
-This document outlines how access is given to the documents and organizational systems we use.
+This document outlines how access is given to the documents and organizational systems we use. This isn't a legal document, it is meant to be a guide for how to operate as a committee member or chair in the AI Village organization.
 
 ## Website
 
