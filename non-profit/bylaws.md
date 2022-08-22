@@ -8,8 +8,11 @@ The principal office of the corporation for the transaction of its business is l
 
 ### SECTION 2. CHANGE OF ADDRESS
 The county of the corporation’s principal office can be changed only by amendment of these bylaws and not otherwise. The board of directors may, however, change the principal office from one location to another within the named county by noting the changed address and effective date below, and such changes of address shall not be deemed an amendment of these bylaws.
+
 ______________________________________    Dated: ____________________
+
 ______________________________________    Dated: ____________________
+
 ______________________________________    Dated: ____________________
 
 ### SECTION 3. OTHER OFFICES
@@ -33,12 +36,12 @@ Subject to the provisions of the California Nonprofit Public Benefit Corporation
 ### SECTION 3. DUTIES
 
 It shall be the duty of the directors to:
-(a) Perform any and all duties imposed on them collectively or individually by law, by the articles of incorporation of this corporation, or by these bylaws;
-(b) Appoint and remove, employ and discharge, and, except as otherwise provided in these bylaws, prescribe the duties and fix the compensation, if any, of all officers, agents, and employees of the corporation;
-(c) Supervise all officers, agents, and employees of the corporation to assure that their duties are performed properly;
-(d) Meet at such times and places as required by these bylaws;
-(e) Register their addresses with the secretary of the corporation and notices of meetings mailed or telegraphed to them at such addresses shall be valid notices thereof.
-(f) Register a valid, current electronic mail address and notices of meetings mailed to them at such addresses shall be valid notices thereof.
+1. Perform any and all duties imposed on them collectively or individually by law, by the articles of incorporation of this corporation, or by these bylaws;
+2. Appoint and remove, employ and discharge, and, except as otherwise provided in these bylaws, prescribe the duties and fix the compensation, if any, of all officers, agents, and employees of the corporation;
+3. Supervise all officers, agents, and employees of the corporation to assure that their duties are performed properly;
+4. Meet at such times and places as required by these bylaws;
+5. Register their addresses with the secretary of the corporation and notices of meetings mailed or telegraphed to them at such addresses shall be valid notices thereof.
+6. Register a valid, current electronic mail address and notices of meetings mailed to them at such addresses shall be valid notices thereof.
 
 ### SECTION 4. TERMS OF OFFICE
 
@@ -50,16 +53,16 @@ Directors shall serve without compensation, no payment is authorized. They shall
 ### SECTION 6. RESTRICTION REGARDING INTERESTED DIRECTORS
 
 Notwithstanding any other provision of these bylaws, not more than forty-nine percent (49%) of the persons serving on the board may be interested persons. For purposes of this Section, “interested persons” means either:
-(a) Any person currently being compensated by the corporation for services rendered it within the previous twelve (12) months, whether as a full- or part-time officer or other employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director as director; or
-(b) Any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.
+1. Any person currently being compensated by the corporation for services rendered it within the previous twelve (12) months, whether as a full- or part-time officer or other employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director as director; or
+2. Any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.
 
 ### SECTION 7. PLACE OF MEETINGS
 Meetings shall be held at the principal office of the corporation unless otherwise provided by the board or at such place within or without the State of California which has been designated from time to time by resolution of the board of directors. In the absence of such designation, any meeting not held at the principal office of the corporation shall be valid only if held on the written consent of all directors given either before or after the meeting and filed with the secretary of the corporation or after all board members have been given written notice of the meeting as hereinafter provided for special meetings of the board. 
 
 Any meeting, regular or special, may be held by conference telephone, electronic video screen communication, or other communications equipment. Participation in a meeting through use of conference telephone constitutes presence in person at that meeting so long as all directors participating in the meeting are able to hear one another. Participation in a meeting through use of electronic video screen communication or other communications equipment (other than conference telephone) constitutes presence in person at that meeting if all of the following apply:
-a) Each director participating in the meeting can communicate with all of the other directors concurrently;
-b) Each director is provided the means of participating in all matters before the board, including, without limitation, the capacity to propose, or to interpose an objection to, a specific action to be taken by the corporation; and
-c) The corporation adopts and implements some means of verifying (1) that all persons participating in the meeting are directors of the corporation or are otherwise entitled to participate in the meeting, and (2) that all actions of, or votes by, the board are taken and cast only by directors and not by persons who are not directors. 
+1. Each director participating in the meeting can communicate with all of the other directors concurrently;
+2. Each director is provided the means of participating in all matters before the board, including, without limitation, the capacity to propose, or to interpose an objection to, a specific action to be taken by the corporation; and
+3. The corporation adopts and implements some means of verifying (1) that all persons participating in the meeting are directors of the corporation or are otherwise entitled to participate in the meeting, and (2) that all actions of, or votes by, the board are taken and cast only by directors and not by persons who are not directors. 
 
 ### SECTION 8. REGULAR AND ANNUAL MEETINGS
 
@@ -213,81 +216,80 @@ The salaries of the officers, if any, shall be fixed from time to time by resolu
 
 ### SECTION 1. EXECUTIVE COMMITTEE
 The board of directors may, by a majority vote of directors, designate two (2) or more of its members (who may also be serving as officers of this corporation) to constitute an executive committee and delegate to such committee any of the powers and authority of the board in the management of the business and affairs of the corporation, except with respect to:
-(a) The approval of any action which, under law or the provisions of these bylaws, requires the approval of the members or of a majority of all of the members.
-(b) The filling of vacancies on the board or on any committee that has the authority of the board. 
-(c) The fixing of compensation of the directors for serving on the board or on any committee.
-(d) The amendment or repeal of bylaws or the adoption of new bylaws.
-(e) The amendment or repeal of any resolution of the board which by its express terms is not so amendable or repealable.
-(f) The appointment of committees of the board or the members thereof.
-(g) The expenditure of corporate funds to support a nominee for director after there are more people nominated for director than can be elected.
-(h) The approval of any transaction to which this corporation is a party and in which one or more of the directors has a material financial interest, except as expressly provided in Section 5233(d)(3) of the California Nonprofit Public Benefit Corporation Law.
+
+1. The approval of any action which, under law or the provisions of these bylaws, requires the approval of the members or of a majority of all of the members.
+2. The filling of vacancies on the board or on any committee that has the authority of the board. 
+3. The fixing of compensation of the directors for serving on the board or on any committee.
+4. The amendment or repeal of bylaws or the adoption of new bylaws.
+5. The amendment or repeal of any resolution of the board which by its express terms is not so amendable or repealable.
+6. The appointment of committees of the board or the members thereof.
+7. The expenditure of corporate funds to support a nominee for director after there are more people nominated for director than can be elected.
+8. The approval of any transaction to which this corporation is a party and in which one or more of the directors has a material financial interest, except as expressly provided in Section 5233(d)(3) of the California Nonprofit Public Benefit Corporation Law.
 
 By a majority vote of its members then in office, the board may at any time revoke or modify any or all of the authority so delegated, increase or decrease but not below two (2) the number of its members, and fill vacancies therein from the members of the board. The committee shall keep regular minutes of its proceedings, cause them to be filed with the corporate records, and report the same to the board from time to time as the board may require. 
 
-SECTION 2. OTHER COMMITTEES
+### SECTION 2. OTHER COMMITTEES
 The corporation shall have such other committees as may from time to time be designated by resolution of the board of directors. Such other committees may consist of persons who are not also members of the board. These additional committees shall act in an advisory capacity only to the board and shall be clearly titled as “advisory” committees.
 
-SECTION 3. MEETINGS AND ACTION OF COMMITTEES
+### SECTION 3. MEETINGS AND ACTION OF COMMITTEES
 Meetings and action of committees shall be governed by, noticed, held, and taken in accordance with the provisions of these bylaws concerning meetings of the board of directors, with such changes in the context of such bylaw provisions as are necessary to substitute the committee and its members for the board of directors and its members, except that the time for regular meetings of committees may be fixed by resolution of the board of directors or by the committee. The time for special meetings of committees may also be fixed by the board of directors. The board of directors may also adopt rules and regulations pertaining to the conduct of meetings of committees to the extent that such rules and regulations are not inconsistent with the provisions of these bylaws.
 
-ARTICLE 6
-EXECUTION OF INSTRUMENTS, DEPOSITS, AND FUNDS
+## ARTICLE 6: EXECUTION OF INSTRUMENTS, DEPOSITS, AND FUNDS
 
-SECTION 1. EXECUTION OF INSTRUMENTS
+### SECTION 1. EXECUTION OF INSTRUMENTS
 The board of directors, except as otherwise provided in these bylaws, may by resolution authorize any officer or agent of the corporation to enter into any contract or execute and deliver any instrument in the name of and on behalf of the corporation, and such authority may be general or confined to specific instances. Unless so authorized, no officer, agent, or employee shall have any power or authority to bind the corporation by any contract or engagement or to pledge its credit or to render it liable monetarily for any purpose or in any amount.
 
-SECTION 2. CHECKS AND NOTES
+### SECTION 2. CHECKS AND NOTES
 Except as otherwise specifically determined by resolution of the board of directors, or as otherwise required by law, checks, drafts, promissory notes, orders for the payment of money, and other evidence of indebtedness of the corporation shall be signed by the treasurer and countersigned by the president of the corporation.
 
-SECTION 3. DEPOSITS
+### SECTION 3. DEPOSITS
 All funds of the corporation shall be deposited from time to time to the credit of the corporation in such banks, trust companies, or other depositories as the board of directors may select.
 
-SECTION 4. GIFTS
+### SECTION 4. GIFTS
 The board of directors may accept on behalf of the corporation any contribution, gift, bequest, or devise for the charitable or public purposes of this corporation.
 
-ARTICLE 7
-CORPORATE RECORDS, REPORTS, AND SEAL
+## ARTICLE 7: CORPORATE RECORDS, REPORTS, AND SEAL
 
-SECTION 1. MAINTENANCE OF CORPORATE RECORDS
+### SECTION 1. MAINTENANCE OF CORPORATE RECORDS
 The corporation shall keep at its principal office in the State of California and in electronic form on a cloud service that is accessible to all board members:
-(a) Minutes of all meetings of directors, committees of the board, and, if this corporation has members, of all meetings of members, indicating the time and place of holding such meetings, whether regular or special, how called, the notice given, and the names of those present and the proceedings thereof;
-(b) Adequate and correct books and records of account, including accounts of its properties and business transactions and accounts of its assets, liabilities, receipts, disbursements, gains, and losses;
-(c) A record of its members, if any, indicating their names and addresses and, if applicable, the class of membership held by each member and the termination date of any membership;
-(d) A copy of the corporation’s articles of incorporation and bylaws as amended to date, which shall be open to inspection by the members, if any, of the corporation at all reasonable times during office hours.
+1. Minutes of all meetings of directors, committees of the board, and, if this corporation has members, of all meetings of members, indicating the time and place of holding such meetings, whether regular or special, how called, the notice given, and the names of those present and the proceedings thereof;
+2. Adequate and correct books and records of account, including accounts of its properties and business transactions and accounts of its assets, liabilities, receipts, disbursements, gains, and losses;
+3. A record of its members, if any, indicating their names and addresses and, if applicable, the class of membership held by each member and the termination date of any membership;
+4. A copy of the corporation’s articles of incorporation and bylaws as amended to date, which shall be open to inspection by the members, if any, of the corporation at all reasonable times during office hours.
 
 All corporate records must be retained on the cloud service indefinitely and in the principal office for 7 years, or until this corporation is dissolved.
 
-SECTION 2. CORPORATE SEAL
+### SECTION 2. CORPORATE SEAL
 The board of directors may adopt, use, and at will alter, a corporate seal. Such seal shall be kept at the principal office of the corporation. Failure to affix the seal to corporate instruments, however, shall not affect the validity of any such instrument.
 
-SECTION 3. DIRECTORS’ INSPECTION RIGHTS
+### SECTION 3. DIRECTORS’ INSPECTION RIGHTS
 Every director shall have the absolute right at any reasonable time to inspect and copy all books, records, and documents of every kind and to inspect the physical properties of the corporation.
 
-SECTION 4. MEMBERS’ INSPECTION RIGHTS
+### SECTION 4. MEMBERS’ INSPECTION RIGHTS
 If this corporation has any members, then each and every member shall have the following inspection rights, for a purpose reasonably related to such person’s interest as a member:
-(a) To inspect and copy the record of all members’ names, addresses, and voting rights, at reasonable times, upon five (5) business days’ prior written demand on the corporation, which demand shall state the purpose for which the inspection rights are requested.
-(b) To obtain from the secretary of the corporation, upon written demand and payment of a reasonable charge, an alphabetized list of the names, addresses, and voting rights of those members entitled to vote for the election of directors as of the most recent record date for which the list has been compiled or as of the date specified by the member subsequent to the date of demand. The demand shall state the purpose for which the list is requested. The membership list shall be made available on or before the later of ten (10) business days after the demand is received or after the date specified therein as of which the list is to be compiled. 
-(c) To inspect at any reasonable time the books, records, or minutes of proceedings of the members or of the board or committees of the board, upon written demand on the corporation by the member, for a purpose reasonably related to such person’s interests as a member.
+1. To inspect and copy the record of all members’ names, addresses, and voting rights, at reasonable times, upon five (5) business days’ prior written demand on the corporation, which demand shall state the purpose for which the inspection rights are requested.
+2. To obtain from the secretary of the corporation, upon written demand and payment of a reasonable charge, an alphabetized list of the names, addresses, and voting rights of those members entitled to vote for the election of directors as of the most recent record date for which the list has been compiled or as of the date specified by the member subsequent to the date of demand. The demand shall state the purpose for which the list is requested. The membership list shall be made available on or before the later of ten (10) business days after the demand is received or after the date specified therein as of which the list is to be compiled. 
+3. To inspect at any reasonable time the books, records, or minutes of proceedings of the members or of the board or committees of the board, upon written demand on the corporation by the member, for a purpose reasonably related to such person’s interests as a member.
 
-SECTION 5. RIGHT TO COPY AND MAKE EXTRACTS
+### SECTION 5. RIGHT TO COPY AND MAKE EXTRACTS
 Any inspection under the provisions of this Article may be made in person or by agent or attorney and the right to inspection includes the right to copy and make extracts.
 
-SECTION 6. ANNUAL REPORT
+### SECTION 6. ANNUAL REPORT
 The board shall cause an annual report to be furnished not later than one hundred and twenty (120) days after the close of the corporation’s fiscal year to all directors of the corporation and, if this corporation has members, to any member who requests it in writing, which report shall contain the following information in appropriate detail:
-(a) The assets and liabilities, including the trust funds, of the corporation as of the end of the fiscal year;
-(b) The principal changes in assets and liabilities, including trust funds, during the fiscal year;
-(c) The revenue or receipts of the corporation, both unrestricted and restricted to particular purposes, for the fiscal year;
-(d) The expenses or disbursements of the corporation, for both general and restricted purposes, during the fiscal year;
-(e) Any information required by Section 7 of this Article.
+1. The assets and liabilities, including the trust funds, of the corporation as of the end of the fiscal year;
+2. The principal changes in assets and liabilities, including trust funds, during the fiscal year;
+3. The revenue or receipts of the corporation, both unrestricted and restricted to particular purposes, for the fiscal year;
+4. The expenses or disbursements of the corporation, for both general and restricted purposes, during the fiscal year;
+5. Any information required by Section 7 of this Article.
 The annual report shall be accompanied by any report thereon of independent accountants, or, if there is no such report, the certificate of an authorized officer of the corporation that such statements were prepared without audit from the books and records of the corporation.
 
 If this corporation has members, then, if this corporation receives Twenty-Five Thousand Dollars ($25,000), or more, in gross revenues or receipts during the fiscal year, this corporation shall automatically send the above annual report to all members, in such manner, at such time, and with such contents, including an accompanying report from independent accountants or certification of a corporate officer, as specified by the above provisions of this Section relating to the annual report.
 
-SECTION 7. ANNUAL STATEMENT OF SPECIFIC TRANSACTIONS TO MEMBERS
+### SECTION 7. ANNUAL STATEMENT OF SPECIFIC TRANSACTIONS TO MEMBERS
 This corporation shall mail or deliver to all directors and any and all members a statement within one hundred and twenty (120) days after the close of its fiscal year which briefly describes the amount and circumstances of any indemnification or transaction of the following kind:
 Any transaction in which the corporation, or its parent or its subsidiary, was a party, and in which either of the following had a direct or indirect material financial interest:
-(a) Any director or officer of the corporation, or its parent or its subsidiary (a mere common directorship shall not be considered a material financial interest); or
-(b) Any holder of more than ten percent (10%) of the voting power of the corporation, its parent, or its subsidiary.
+1. Any director or officer of the corporation, or its parent or its subsidiary (a mere common directorship shall not be considered a material financial interest); or
+2. Any holder of more than ten percent (10%) of the voting power of the corporation, its parent, or its subsidiary.
 The above statement need only be provided with respect to a transaction during the previous fiscal year involving more than Fifty Thousand Dollars ($50,000) or which was one of a number of transactions with the same persons involving, in the aggregate, more than Fifty Thousand Dollars ($50,000).
 Similarly, the statement need only be provided with respect to indemnifications or advances aggregating more than Ten Thousand Dollars ($10,000) paid during the previous fiscal year to any director or officer, except that no such statement need be made if such indemnification was approved by the members pursuant to Section 5238(e)(2) of the California Nonprofit Public Benefit Corporation Law.
 
@@ -295,36 +297,35 @@ Any statement required by this Section shall briefly describe the names of the i
 
 If this corporation has any members and provides all members with an annual report according to the provisions of Section 6 of this Article, then such annual report shall include the information required by this Section.
 
-ARTICLE 8
-FISCAL YEAR
+## ARTICLE 8: FISCAL YEAR
 
 SECTION 1. FISCAL YEAR OF THE CORPORATION
 The fiscal year of the corporation shall begin on the first day of April and end on the last day of March in each year.
 
-ARTICLE 9
-CONFLICT OF INTEREST AND COMPENSATION APPROVAL POLICIES
+## ARTICLE 9: CONFLICT OF INTEREST AND COMPENSATION APPROVAL POLICIES
 
-SECTION 1. PURPOSE OF CONFLICT OF INTEREST POLICY
+### SECTION 1. PURPOSE OF CONFLICT OF INTEREST POLICY
 The purpose of this conflict of interest policy is to protect this tax-exempt corporation’s interest when it is contemplating entering into a transaction or arrangement that might benefit the private interest of an officer or director of the corporation or any “disqualified person” as defined in Section 4958(f)(1) of the Internal Revenue Code and as amplified by Section 53.4958-3 of the IRS Regulations and which might result in a possible “excess benefit transaction” as defined in Section 4958(c)(1)(A) of the Internal Revenue Code and as amplified by Section 53.4958 of the IRS Regulations. This policy is intended to supplement but not replace any applicable state and federal laws governing conflict of interest applicable to nonprofit and charitable organizations.
 
-SECTION 2. DEFINITIONS
-(a) Interested Person. 
+### SECTION 2. DEFINITIONS
+1. Interested Person. 
 Any director, principal officer, member of a committee with governing board delegated powers, or any other person who is a “disqualified person” as defined in Section 4958(f)(1) of the Internal Revenue Code and as amplified by Section 53.4958-3 of the IRS Regulations, who has a direct or indirect financial interest, as defined below, is an interested person.
-(b) Financial Interest. 
+2. Financial Interest. 
 A person has a financial interest if the person has, directly or indirectly, through business, investment, or family:
-(1) an ownership or investment interest in any entity with which the corporation has a transaction or arrangement,
-(2) a compensation arrangement with the corporation or with any entity or individual with which the corporation has a transaction or arrangement, or
-(3) a potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the corporation is negotiating a transaction or arrangement.
+    1. an ownership or investment interest in any entity with which the corporation has a transaction or arrangement,
+    2. a compensation arrangement with the corporation or with any entity or individual with which the corporation has a transaction or arrangement, or
+    3. a potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the corporation is negotiating a transaction or arrangement.
+
 Compensation includes direct and indirect remuneration as well as gifts or favors that are not insubstantial.
 
 A financial interest is not necessarily a conflict of interest. Under Section 3, paragraph b, a person who has a financial interest may have a conflict of interest only if the appropriate governing board or committee decides that a conflict of interest exists.
 
-SECTION 3. CONFLICT OF INTEREST AVOIDANCE PROCEDURES
-(a) Duty to Disclose. 
+### SECTION 3. CONFLICT OF INTEREST AVOIDANCE PROCEDURES
+1. Duty to Disclose. 
 In connection with any actual or possible conflict of interest, an interested person must disclose the existence of the financial interest and be given the opportunity to disclose all material facts to the directors and members of committees with governing board delegated powers considering the proposed transaction or arrangement.
-(b) Determining Whether a Conflict of Interest Exists. 
+2. Determining Whether a Conflict of Interest Exists. 
 After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the governing board or committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining board or committee members shall decide if a conflict of interest exists.
-(c) Procedures for Addressing the Conflict of Interest. 
+3. Procedures for Addressing the Conflict of Interest. 
 An interested person may make a presentation at the governing board or committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
 
 The chairperson of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
@@ -333,17 +334,18 @@ After exercising due diligence, the governing board or committee shall determine
 
 If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the corporation’s best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
 
-(d) Violations of the Conflicts of Interest Policy. 
+4. Violations of the Conflicts of Interest Policy. 
 If the governing board or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
 
 If, after hearing the member’s response and after making further investigation as warranted by the circumstances, the governing board or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
 
-SECTION 4. RECORDS OF BOARD AND BOARD COMMITTEE PROCEEDINGS
-The minutes of meetings of the governing board and all committees with board delegated powers shall contain:
-(a) The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the governing board’s or committee’s decision as to whether a conflict of interest in fact existed.
-(b) The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.
+### SECTION 4. RECORDS OF BOARD AND BOARD COMMITTEE PROCEEDINGS
 
-SECTION 5. COMPENSATION APPROVAL POLICIES
+The minutes of meetings of the governing board and all committees with board delegated powers shall contain:
+1. The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the governing board’s or committee’s decision as to whether a conflict of interest in fact existed.
+2. The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.
+
+### SECTION 5. COMPENSATION APPROVAL POLICIES
 A voting member of the governing board who receives compensation, directly or indirectly, from the corporation for services is precluded from voting on matters pertaining to that member’s compensation.
 
 A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the corporation for services is precluded from voting on matters pertaining to that member’s compensation.
@@ -351,81 +353,75 @@ A voting member of any committee whose jurisdiction includes compensation matter
 No voting member of the governing board or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the corporation, either individually or collectively, is prohibited from providing information to any committee regarding compensation.
 
 When approving compensation for directors, officers and employees, contractors, and any other compensation contract or arrangement, in addition to complying with the conflict of interest requirements and policies contained in the preceding and following sections of this article as well as the preceding paragraphs of this section of this article, the board or a duly constituted compensation committee of the board shall also comply with the following additional requirements and procedures:
-(a) The terms of compensation shall be approved by the board or compensation committee prior to the first payment of compensation.
-(b) All members of the board or compensation committee who approve compensation arrangements must not have a conflict of interest with respect to the compensation arrangement as specified in IRS Regulation Section 53.4958-6(c)(iii), which generally requires that each board member or committee member approving a compensation arrangement between this organization and a “disqualified person” (as defined in Section 4958(f)(1) of the Internal Revenue Code and as amplified by Section 53.4958-3 of the IRS Regulations):
+1. The terms of compensation shall be approved by the board or compensation committee prior to the first payment of compensation.
+2. All members of the board or compensation committee who approve compensation arrangements must not have a conflict of interest with respect to the compensation arrangement as specified in IRS Regulation Section 53.4958-6(c)(iii), which generally requires that each board member or committee member approving a compensation arrangement between this organization and a “disqualified person” (as defined in Section 4958(f)(1) of the Internal Revenue Code and as amplified by Section 53.4958-3 of the IRS Regulations):
+    1. is not the person who is the subject of compensation arrangement, or a family member of such person
+    2. is not in an employment relationship subject to the direction or control of the person who is the subject of compensation arrangement
+    3. does not receive compensation or other payments subject to approval by the person who is the subject of compensation arrangement 
+    4. has no material financial interest affected by the compensation arrangement; and
+    5. does not approve a transaction providing economic benefits to the person who is the subject of the compensation arrangement, who in turn has approved or will approve a transaction providing benefits to the board or committee member.
 
-1. is not the person who is the subject of compensation arrangement, or a family member of such person
-2. is not in an employment relationship subject to the direction or control of the person who is the subject of compensation arrangement
-3. does not receive compensation or other payments subject to approval by the person who is the subject of compensation arrangement 
-4. has no material financial interest affected by the compensation arrangement; and
-5. does not approve a transaction providing economic benefits to the person who is the subject of the compensation arrangement, who in turn has approved or will approve a transaction providing benefits to the board or committee member.
-
-(c) The board or compensation committee shall obtain and rely upon appropriate data as to comparability prior to approving the terms of compensation. Appropriate data may include the following:
-
-1. compensation levels paid by similarly situated organizations, both taxable and tax-exempt, for functionally comparable positions. “Similarly situated” organizations are those of a similar size and purpose and with similar resources
-2. the availability of similar services in the geographic area of this organization
-3. current compensation surveys compiled by independent firms; and
-4. actual written offers from similar institutions competing for the services of the person who is the subject of the compensation arrangement.
+4. The board or compensation committee shall obtain and rely upon appropriate data as to comparability prior to approving the terms of compensation. Appropriate data may include the following:
+    1. compensation levels paid by similarly situated organizations, both taxable and tax-exempt, for functionally comparable positions. “Similarly situated” organizations are those of a similar size and purpose and with similar resources
+    2. the availability of similar services in the geographic area of this organization
+    3. current compensation surveys compiled by independent firms; and
+    4. actual written offers from similar institutions competing for the services of the person who is the subject of the compensation arrangement.
 
 As allowed by IRS Regulation 4958-6, if this organization has average annual gross receipts (including contributions) for its three prior tax years of less than $1 million, the board or compensation committee will have obtained and relied upon appropriate data as to comparability if it obtains and relies upon data on compensation paid by three comparable organizations in the same or similar communities for similar services.
 
-(d) The terms of compensation and the basis for approving them shall be recorded in written minutes of the meeting of the board or compensation committee that approved the compensation. Such documentation shall include: 
+5. The terms of compensation and the basis for approving them shall be recorded in written minutes of the meeting of the board or compensation committee that approved the compensation. Such documentation shall include: 
+    1. the terms of the compensation arrangement and the date it was approved
+    2. the members of the board or compensation committee who were present during debate on the transaction, those who voted on it, and the votes cast by each board or committee member
+    3. the comparability data obtained and relied upon and how the data was obtained
+    4. the board or compensation committee determines that reasonable compensation for a specific position in this organization or for providing services under any other compensation arrangement with this organization is higher or lower than the range of comparability data obtained, the board or committee shall record in the minutes of the meeting the basis for its determination
+    5. the board or committee makes adjustments to comparability data due to geographic area or other specific conditions, these adjustments and the reasons for them shall be recorded in the minutes of the board or committee meeting
+    6. any actions taken with respect to determining if a board or committee member had a conflict of interest with respect to the compensation arrangement, and if so, actions taken to make sure the member with the conflict of interest did not affect or participate in the approval of the transaction (for example, a notation in the records that after a finding of conflict of interest by a member, the member with the conflict of interest was asked to, and did, leave the meeting prior to a discussion of the compensation arrangement and a taking of the votes to approve the arrangement).
 
-1. the terms of the compensation arrangement and the date it was approved
-2. the members of the board or compensation committee who were present during debate on the transaction, those who voted on it, and the votes cast by each board or committee member
-3. the comparability data obtained and relied upon and how the data was obtained
-4. the board or compensation committee determines that reasonable compensation for a specific position in this organization or for providing services under any other compensation arrangement with this organization is higher or lower than the range of comparability data obtained, the board or committee shall record in the minutes of the meeting the basis for its determination
-5. the board or committee makes adjustments to comparability data due to geographic area or other specific conditions, these adjustments and the reasons for them shall be recorded in the minutes of the board or committee meeting
-6. any actions taken with respect to determining if a board or committee member had a conflict of interest with respect to the compensation arrangement, and if so, actions taken to make sure the member with the conflict of interest did not affect or participate in the approval of the transaction (for example, a notation in the records that after a finding of conflict of interest by a member, the member with the conflict of interest was asked to, and did, leave the meeting prior to a discussion of the compensation arrangement and a taking of the votes to approve the arrangement).
 The minutes of board or committee meetings at which compensation arrangements are approved must be prepared before the later of the date of the next board or committee meeting or 60 days after the final actions of the board or committee are taken with respect to the approval of the compensation arrangements. The minutes must be reviewed and approved by the board and committee as reasonable, accurate, and complete within a reasonable period thereafter, normally prior to or at the next board or committee meeting following final action on the arrangement by the board or committee. 
 
-SECTION 6. ANNUAL STATEMENTS
+### SECTION 6. ANNUAL STATEMENTS
 Each director, principal officer, and member of a committee with governing board delegated powers shall annually sign a statement which affirms such person:
 
-(a) has received a copy of the conflicts of interest policy,
-(b) has read and understands the policy,
-(c) has agreed to comply with the policy, and
-(d) understands the corporation is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
+1. has received a copy of the conflicts of interest policy,
+2. has read and understands the policy,
+3. has agreed to comply with the policy, and
+4. understands the corporation is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
 
-SECTION 7. PERIODIC REVIEWS
+### SECTION 7. PERIODIC REVIEWS
 To ensure the corporation operates in a manner consistent with charitable purposes and does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted. The periodic reviews shall, at a minimum, include the following subjects:
-(a) Whether compensation arrangements and benefits are reasonable, based on competent survey information, and the result of arm’s-length bargaining.
-(b) Whether partnerships, joint ventures, and arrangements with management organizations conform to the corporation’s written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes, and do not result in inurement, impermissible private benefit, or in an excess benefit transaction.
+1. Whether compensation arrangements and benefits are reasonable, based on competent survey information, and the result of arm’s-length bargaining.
+2. Whether partnerships, joint ventures, and arrangements with management organizations conform to the corporation’s written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes, and do not result in inurement, impermissible private benefit, or in an excess benefit transaction.
 
-SECTION 8. USE OF OUTSIDE EXPERTS
+### SECTION 8. USE OF OUTSIDE EXPERTS
 When conducting the periodic reviews as provided for in Section 7, the corporation may, but need not, use outside advisers. If outside experts are used, their use shall not relieve the governing board of its responsibility for ensuring periodic reviews are conducted.
 
-ARTICLE 10
-AMENDMENT OF BYLAWS
+## ARTICLE 10: AMENDMENT OF BYLAWS
 
-SECTION 1. AMENDMENT 
+### SECTION 1. AMENDMENT 
 Subject to any provision of law applicable to the amendment of bylaws of public benefit nonprofit corporations, these bylaws, or any of them, may be altered, amended, or repealed and new bylaws adopted as follows:
-(a) Subject to the power of members, if any, to change or repeal these bylaws under Section 5150 of the Corporations Code, by approval of the board of directors unless the bylaw amendment would materially and adversely affect the rights of members, if any, as to voting or transfer, provided, however, if this corporation has admitted any members, then a bylaw specifying or changing the fixed number of directors of the corporation, the maximum or minimum number of directors, or changing from a fixed to variable board or vice versa, may not be adopted, amended, or repealed except as provided in subparagraph (b) of this Section; or
-(b) By approval of the members, if any, of this corporation.
+1. Subject to the power of members, if any, to change or repeal these bylaws under Section 5150 of the Corporations Code, by approval of the board of directors unless the bylaw amendment would materially and adversely affect the rights of members, if any, as to voting or transfer, provided, however, if this corporation has admitted any members, then a bylaw specifying or changing the fixed number of directors of the corporation, the maximum or minimum number of directors, or changing from a fixed to variable board or vice versa, may not be adopted, amended, or repealed except as provided in subparagraph (b) of this Section; or
+2. By approval of the members, if any, of this corporation.
 
-ARTICLE 11
-AMENDMENT OF ARTICLES
+## ARTICLE 11: AMENDMENT OF ARTICLES
 
-SECTION 1. AMENDMENT OF ARTICLES BEFORE ADMISSION OF MEMBERS
+### SECTION 1. AMENDMENT OF ARTICLES BEFORE ADMISSION OF MEMBERS
 Before any members have been admitted to the corporation, any amendment of the articles of incorporation may be adopted by approval of the board of directors.
 
-SECTION 2. AMENDMENT OF ARTICLES AFTER ADMISSION OF MEMBERS
+### SECTION 2. AMENDMENT OF ARTICLES AFTER ADMISSION OF MEMBERS
 After members, if any, have been admitted to the corporation, amendment of the articles of incorporation may be adopted by the approval of the board of directors and by the approval of the members of this corporation.
 
-SECTION 3. CERTAIN AMENDMENTS
+### SECTION 3. CERTAIN AMENDMENTS
 Notwithstanding the above sections of this Article, this corporation shall not amend its articles of incorporation to alter any statement which appears in the original articles of incorporation of the names and addresses of the first directors of this corporation, nor the name and address of its initial agent, except to correct an error in such statement or to delete such statement after the corporation has filed a “Statement by a Domestic Nonprofit Corporation” pursuant to Section 6210 of the California Nonprofit Corporation Law.
 
-ARTICLE 12
-PROHIBITION AGAINST SHARING CORPORATE PROFITS AND ASSETS
+## ARTICLE 12: PROHIBITION AGAINST SHARING CORPORATE PROFITS AND ASSETS
 
-SECTION 1. PROHIBITION AGAINST SHARING CORPORATE PROFITS AND ASSETS
+### SECTION 1. PROHIBITION AGAINST SHARING CORPORATE PROFITS AND ASSETS
 No member, director, officer, employee, or other person connected with this corporation, or any private individual, shall receive at any time any of the net earnings or pecuniary profit from the operations of the corporation, provided, however, that this provision shall not prevent payment to any such person of reasonable compensation for services performed for the corporation in effecting any of its public or charitable purposes, provided that such compensation is otherwise permitted by these bylaws and is fixed by resolution of the board of directors; and no such person or persons shall be entitled to share in the distribution of, and shall not receive, any of the corporate assets on dissolution of the corporation. All members, if any, of the corporation shall be deemed to have expressly consented and agreed that on such dissolution or winding up of the affairs of the corporation, whether voluntarily or involuntarily, the assets of the corporation, after all debts have been satisfied, shall be distributed as required by the articles of incorporation of this corporation and not otherwise.
 
-ARTICLE 13
-MEMBERS
+## ARTICLE 13: MEMBERS
 
-SECTION 1. DETERMINATION OF MEMBERS 
+### SECTION 1. DETERMINATION OF MEMBERS 
 If this corporation makes no provision for members, then, pursuant to Section 5310(b) of the Nonprofit Public Benefit Corporation Law of the State of California, any action which would otherwise, under law or the provisions of the articles of incorporation or bylaws of this corporation, require approval by a majority of all members or approval by the members, shall only require the approval of the board of directors.
 
-WRITTEN CONSENT OF DIRECTORS ADOPTING BYLAWS
+## WRITTEN CONSENT OF DIRECTORS ADOPTING BYLAWS
 We, the undersigned, are all of the persons acting as the initial directors of AI Village Inc, a California nonprofit corporation, and, pursuant to the authority granted to the directors by these bylaws to take action by unanimous written consent without a meeting, consent to, and hereby do, adopt the foregoing bylaws, consisting of 34 pages, as the bylaws of this corporation.
