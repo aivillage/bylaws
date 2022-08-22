@@ -9,6 +9,7 @@ AI Village is dedicated to providing a harassment-free experience for everyone, 
 
 Participants violating these rules may be sanctioned or expelled from the village at the discretion of the village organizers. Any violation of the DEF CON code of conduct will also result in immediate expulsion from the village and the conference at the discretion of the village and conference organizers.
 
+
 ## THE FULL VERSION
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
