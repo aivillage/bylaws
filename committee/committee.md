@@ -13,6 +13,8 @@
 
 **Section 2.02 Powers and Duties of the Steering Committee.** The Steering Committee shall oversee the progress and future directions of the AI Village, discuss and vet major decisions, and foster a culture that promotes openness, diversity, equity, and inclusion. The Steering Committee will provide support for committee-led activities, organization and themes of workshops and conferences, and cooperation with external groups of researchers. The Steering Committee shall review the AI Village Committee Bylaws annually to determine if revisions are needed. Amendments must be approved by a majority vote of the Steering Committee and the Committee Members (see Section 4.03, Article IV). 
 
+**Section 2.02 Outside Contractors.** The Steering Committee may hire an outside contractor to help a committee achieve it's goals. Outside Contractors must abide by the code of conduct and can be removed at any time by the Steering Committee.
+
 ## ARTICLE III
 ### Committees
 
