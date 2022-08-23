@@ -18,9 +18,9 @@
 
 **Section 3.01 Membership.** A committee needs at least 3 members. A Committee shall have a designated chair and second, or a pair of co-chairs. More than two co-chairs requires approval from the Steering Committee. The committee chair(s) must be eligible under article IV Section 4.01, and the committee members must be eligible under Article V Section 5.01
 
-**Section 3.02 Election.** New committees must be approved by the steering committee.
+**Section 3.02 Election.** New committees must be approved by the steering committee. They need an organizing document that states the goals and tasks the committee will accomplish. 
 
-**Section 3.02 Dissolution.** A committee is dissolved when it votes to dissolve, or a majority vote by the steering committee forces it to dissolve. 
+**Section 3.03 Dissolution.** A committee is dissolved when it votes to dissolve, or a majority vote by the steering committee forces it to dissolve, or it's membership falls below the requirements stated in Article III Section 3.01.
 
 ## ARTICLE IV
 ### Organizational Committee Chairs
@@ -51,7 +51,7 @@
 
 **Section 4.01 Election.** Any person may be nominated to the Volunteer Group by another member of the Volunteer Group or may nominate themselves by contacting the Conference Coordinator. The final decision for election to the Volunteer Group shall be made by the respective Organizing Committee by majority vote.
 
-**Section 4.02 Duties.** Volunteer Group members shall be actively involved in AI Village activities (i.e. approving Bylaws revisions, see Section 2.04, Article II) either as members of one or more Organizational Committees (see Articles III and V) or through other AIV related activities recognized at the discretion of the Steering Committee. Failure to remain active for more than a year in the Volunteer Group may elicit removal as provided in Section 4.03 of this Article IV.
+**Section 4.02 Duties.** Volunteer Group members shall be actively involved in AI Village activities (i.e. approving Bylaws revisions, see Section 2.04, Article II) either as members of one or more Organizational Committees (see Articles III and V) or through other AIV related activities recognized at the discretion of the Steering Committee. Failure to remain active for more than a year in the Volunteer Group may elicit removal as provided in Section 4.03 of this Article IV. Volunteer Group members are also expected to follow the Volunteer Code of Conduct.
 
 **Section 4.03 Removal.** Any Volunteer Group member may be removed for cause by vote of the Steering Committee provided there is a quorum of a majority present at the meeting at which such action is taken.
 
