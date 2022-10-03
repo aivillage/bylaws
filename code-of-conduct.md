@@ -1,5 +1,4 @@
-
-# Code of Conduct
+# Conference Code of Conduct
 
 All delegates, speakers, sponsors and volunteers at AI Village are required to agree with the following code of conduct. Organizers will enforce this code throughout the event.
 
@@ -25,5 +24,3 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Village staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the village. We value your attendance.
 
 We expect participants to follow these rules at all village venues and village-related social events.
-
-Borrowed with love from CAMLIS.org
