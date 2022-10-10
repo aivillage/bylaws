@@ -30,4 +30,4 @@ To get an AIV email they need to contact via email or discord direct message one
 
 ## Discord & Github Roles
 
-Committee chairs can make chat rooms and roles on discord. They can also request a Github team and a make private repos for that team as needed. When you join a committee your committee chair should provide you with the appropriate roles on discord and github. When you're done serving on a committee, the committee chair should either remove the role to remove access or provide you with a "Emeritus" role to preserve access. The choice is up to the committee how they do this. 
+Committee chairs can make chat rooms and roles on discord. They can also request a Github team and a make private repos for that team as needed. When you join a committee your committee chair should provide you with the appropriate roles on discord and github. When you're done serving on a committee, the committee chair should either remove the role to remove access or provide you with a "Emeritus" role to preserve access while acknowledge that you're no longer actively contributing. The choice is up to the committee how they do this.
