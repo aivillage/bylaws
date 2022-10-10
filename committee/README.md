@@ -21,7 +21,7 @@ Soft deadlines are self imposed by the committee and can be delayed. Plenty of s
 
 Committees should be as small as possible to do their job. Everyone on the committee should have a defined role or tasks that they are doing to serve. This can be "advisor" if that person is busy and an expert who's advice is necessary. If someone is enthusiastic and inexperienced they might contribute by playtesting, or making website graphics. The committee should be open to people learning new skills while contributing, if it makes sense. 
 
-## New Members
+#### New Members
 
 Committees can recruit actively, or passively. Active recruitment is the committee asking people to join to help with a task. Passive recruitment is posting a list of things they need help with openly and talking to applicants. They should be open to someone offering to do something helpful for the project that isn't on their todo list. 
 
@@ -31,7 +31,7 @@ The most common problem is not people not doing things, but people not communica
 
 The next most common problem is someone not doing what they said they'd do. This is usually because something came up in their personal life. Figure out a work around, or maybe just delay some of the soft deadlines. If there's a hard deadline, then the committee should figure out a plan B. If someone really isn't contributing, it's OK to find someone else. Just be professional about it. Not having soft deadlines makes this problem much harder to deal with.
 
-## Committee Removal 
+#### Committee Removal 
 
 If someone signs onto a committee and does not contribute then they should be removed by the committee. This should be done upfront, professionally, and with kindness. It can feel bad to remove a friend from your committee, but usually this decision is made because people on the committee are getting irritated at the "dead weight" who may be getting credit for others work. Try to work with them for a bit, but not too long. If they aren't communicating, then the decision to remove them may be easy. If they are having persistent personal problems then it may be best for them to leave and figure those out. They can come back when they're in a better place.
 
