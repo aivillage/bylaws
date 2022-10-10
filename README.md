@@ -15,7 +15,7 @@ The AIV works via a few small groups academics call committees, open source peop
 - **Workshop Committee**: Creates or solicits workshops and figures out the infrastructure required.
 - **Art Committee**: Creates or solicits AI Art to be shown at conventions, like the StableDiffusion booth. 
 
-We've had committees doing a podcast, and ones making [disinformation games for kids](https://www.cnet.com/news/politics/at-def-con-teaching-disinformation-campaigns-is-childs-play/). The steering committee glues this all together and writes the applications and description of the AIV at the various cons. They approve new committees and allocate resources. See the [best practices document](/committee/committee_best_practices.md) for how to form a committee and help out.
+We've had committees doing a podcast, and ones making [disinformation games for kids](https://www.cnet.com/news/politics/at-def-con-teaching-disinformation-campaigns-is-childs-play/). The steering committee glues this all together and writes the applications and description of the AIV at the various cons. They approve new committees and allocate resources. See the [best practices document](/committee/) for how to form a committee and help out.
 
 # Repo Layout
 
