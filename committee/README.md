@@ -15,6 +15,8 @@ The AIV sends in descriptions of what we're bringing to each con as part of the 
 
 It's best to just make stuff without a hard deadline. Hard Deadlines cause stress and crunch. However, if you're going to show your stuff off at a con that con is your deadline and you should really try make it. It is *best* if you get 80% of the project done before you announce it, so that you don't have to crunch too much at the end. Your project can be a surprise, i.e. not included in the application description. This means if you slip and it's not done in time, there's no harm & no foul.  
 
+#### Soft deadlines
+
 Soft deadlines are self imposed by the committee and can be delayed. Plenty of small soft deadlines keep everyone honest, it keeps things moving and momentum is very important. You enforce them among yourself and can let them slip. These are really important for keeping the committee healthy and avoiding the common problems.
 
 ## Committee Membership
@@ -23,7 +25,11 @@ Committees should be as small as possible to do their job. Everyone on the commi
 
 #### New Members
 
-Committees can recruit actively, or passively. Active recruitment is the committee asking people to join to help with a task. Passive recruitment is posting a list of things they need help with openly and talking to applicants. They should be open to someone offering to do something helpful for the project that isn't on their todo list. 
+Committees can recruit actively, or passively. Active recruitment is the committee asking people to join to help with a task. Passive recruitment is posting a list of things they need help with openly and talking to applicants. They should be open to someone offering to do something helpful for the project that isn't on their todo list.
+
+#### Credit
+
+You can have a list of contributors to the project, or a list of what people contributed. This needs to be public and people should be able to link to it on their linkin, twitter, or resume. At conventions, you should acknowledge the committee members. The easiest place is the AI Village website (see the infrastructure document for this). 
 
 ## Problems in a Committee
 
@@ -35,7 +41,7 @@ The next most common problem is someone not doing what they said they'd do. This
 
 If someone signs onto a committee and does not contribute then they should be removed by the committee. This should be done upfront, professionally, and with kindness. It can feel bad to remove a friend from your committee, but usually this decision is made because people on the committee are getting irritated at the "dead weight" who may be getting credit for others work. Try to work with them for a bit, but not too long. If they aren't communicating, then the decision to remove them may be easy. If they are having persistent personal problems then it may be best for them to leave and figure those out. They can come back when they're in a better place.
 
-If someone has done a bunch of work, but wants to move on then the committee can give them "emeritus" status or just thank them and part ways.
+If someone has done a bunch of work, but wants to move on then the committee can give them "emeritus" status or just thank them and part ways. Don't be stingy with credit! 
 
 # Committee Bylaws & Documentation
 
