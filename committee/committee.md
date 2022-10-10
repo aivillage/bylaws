@@ -9,11 +9,25 @@
 ## ARTICLE II
 ### Steering Committee
 
-**Section 2.01 Non-Profit.** The Steering Committee is the board and officers of the non-profit AI Village Inc., and its membership is governed by those bylaws. 
+**Section 2.01 Meetings.** The Steering Committee shall meet virtually at least once per quarter and additionally as needed to address time sensitive matters. 
 
-**Section 2.02 Powers and Duties of the Steering Committee.** The Steering Committee shall oversee the progress and future directions of the AI Village, discuss and vet major decisions, and foster a culture that promotes openness, diversity, equity, and inclusion. The Steering Committee will provide support for committee-led activities, organization and themes of workshops and conferences, and other content the AI Village Community wants to produce. The Steering Committee shall review the AI Village Committee Bylaws annually to determine if revisions are needed. Amendments must be approved by a majority vote of the Steering Committee and the Committee Members (see Section 4.03, Article IV). 
+**Section 2.02 Number.** The number of Steering Committee members will be flexible depending on the needs of the committee, but will be no less than three (3).
 
-**Section 2.02 Outside Contractors.** The Steering Committee may hire an outside contractor to help a committee achieve it's goals. Outside Contractors must abide by the code of conduct and can be removed at any time by the Steering Committee.
+**Section 2.03 Election and Term of Office.** Steering Committee members shall serve for at least one year and no more than five years. New Steering Committee members can be suggested by any member of the Steering Committee and will be agreed upon by majority vote by current members. The Steering Committee shall also appoint, by majority vote, a Coordinator (see Section 6.01 of this Article VI) to manage the communications and organization of the Plant Cell Atlas.
+
+**Section 2.04 Powers and Duties of the Steering Committee.** The Steering Committee shall oversee the progress and future directions of the AI Village, discuss and vet major decisions, and foster a culture that promotes openness, diversity, equity, and inclusion. The Steering Committee will provide support for committee-led activities, organization and themes of workshops and conferences, and other content the AI Village Community wants to produce. The Steering Committee shall review the AI Village Committee Bylaws annually to determine if revisions are needed. Amendments must be approved by a majority vote of the Steering Committee and the Committee Members (see Section 4.03, Article IV). 
+
+**Section 2.06 Notice of Meetings.** Notice of a Steering Committee meeting shall be given to each committee member via email at least five business days (Saturdays, Sundays and legal holidays not being considered business days for the purpose of these bylaws) before the date designated for such meeting specifying the virtual meeting link, date, and hour of the meeting. A summary of meeting minutes will be provided to the Core Network Participant group (see Article IV) within one month of each meeting.
+
+**Section 2.07 Quorum.** At any meeting of the Steering Committee, a majority of the committee members shall be necessary to constitute a quorum for the transaction of business.
+
+**Section 2.08 Action Without a Meeting.**  Any action required or permitted to be taken by the Steering Committee or any committee thereof may be taken without a meeting if a majority of members of the Steering Committee or any such committee consent in writing to the adoption of a resolution authorizing the action. The resolution and the written consents by the members of the Steering Committee or any such committee shall be filed with the minutes of the proceedings of the Steering Committee or such committee.
+
+**Section 2.09 Removal.** Any Steering Committee member may be removed for cause by vote of the Steering Committee provided there is a quorum of a majority present at the meeting at which such action is taken.
+
+**Section 2.10 Resignation.** Any Steering Committee member may resign from office at any time by delivering a resignation in writing to the Steering Committee, and the acceptance of the resignation shall not be necessary to make the resignation effective.
+
+**Section 2.11 Outside Contractors.** The Steering Committee may hire an outside contractor to help a committee achieve it's goals. Outside Contractors must abide by the code of conduct and can be removed at any time by the Steering Committee.
 
 ## ARTICLE III
 ### Committees
